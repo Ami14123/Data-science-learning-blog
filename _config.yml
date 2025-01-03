@@ -1,3 +1,8 @@
 title: My Data Science Learning Blog
 description: Sharing my data science journey, projects, and insights.
 theme: minima
+navigation:
+  - Home: /
+  - Projects: /projects
+  - About: /about
+
